@@ -1,11 +1,12 @@
 import "./App.css";
-import Footer from "./pages/footer";
+import ChatApp from "./pages/ChatApp";
 
 function App() {
   return (
     <>
       <h2>Ai Chat</h2>
-      <Footer />
+      <ChatApp />
+      {/* <Footer /> */}
     </>
   );
 }
